@@ -23,7 +23,7 @@ TradeUtilTest.testAED_ActualSettlementDate() & testSAR_ActualSettlementDate() we
 TradeUtilTest.testINR_ActualSettlementDate() & testOtherCurrencies_ActualSettlementDate() to determine whether right ActualSettlementDate is being for other Currencies & instructed settlement date mainly for typical workingdays. 
 
 
-##Sample run results:
+###Sample run results:
 ================================================================================
 Incoming amount in USD settled on 2018-07-02 with amount 24510.375
 Outgoing amount in USD settled on 2018-07-02 with amount 33351.5
